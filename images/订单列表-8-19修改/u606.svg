@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="210px" height="24px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <mask fill="white" id="clip33">
-      <path d="M 0 22  L 0 2  C 0 0.879999999999995  1.05 0  2.38636363636364 0  L 69.4151069518717 0  L 207.613636363636 0  C 208.95 0  210 0.879999999999995  210 2  L 210 22  C 210 23.12  208.95 24  207.613636363636 24  L 2.38636363636364 24  C 1.05 24  0 23.12  0 22  Z " fill-rule="evenodd" />
-    </mask>
-  </defs>
-  <g transform="matrix(1 0 0 1 -8 -407 )">
-    <path d="M 0 22  L 0 2  C 0 0.879999999999995  1.05 0  2.38636363636364 0  L 69.4151069518717 0  L 207.613636363636 0  C 208.95 0  210 0.879999999999995  210 2  L 210 22  C 210 23.12  208.95 24  207.613636363636 24  L 2.38636363636364 24  C 1.05 24  0 23.12  0 22  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" transform="matrix(1 0 0 1 8 407 )" />
-    <path d="M 0 22  L 0 2  C 0 0.879999999999995  1.05 0  2.38636363636364 0  L 69.4151069518717 0  L 207.613636363636 0  C 208.95 0  210 0.879999999999995  210 2  L 210 22  C 210 23.12  208.95 24  207.613636363636 24  L 2.38636363636364 24  C 1.05 24  0 23.12  0 22  Z " stroke-width="2" stroke="#aaaaaa" fill="none" transform="matrix(1 0 0 1 8 407 )" mask="url(#clip33)" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="84px" height="101px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -258 -73 )">
+    <path d="M 258 73  L 342 73  L 342 174  L 258 174  L 258 73  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 264 79  L 336 79  L 336 168  L 264 168  L 264 79  " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    <path d="M 307.98 100.75  C 304.452 100.75  301.68 97.978  301.68 94.45  C 301.68 90.922  304.452 88.15  307.98 88.15  C 311.508 88.15  314.28 90.922  314.28 94.45  C 314.28 97.978  311.508 100.75  307.98 100.75  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 266 166  L 266 119.25  L 283 98  L 306.8 115  L 320.4 110.75  L 334 115  L 334 166  L 266 166  " fill-rule="nonzero" fill="#169bd5" stroke="none" />
   </g>
 </svg>
