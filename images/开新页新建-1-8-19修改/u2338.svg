@@ -1,22 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="139px" height="142px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <mask fill="white" id="clip197">
-      <path d="M 0 128  L 0 4  C 0 1.75999999999999  1.75999999999999 0  4 0  L 125 0  C 127.24 0  129 1.75999999999999  129 4  L 129 128  C 129 130.24  127.24 132  125 132  L 4 132  C 1.75999999999999 132  0 130.24  0 128  Z " fill-rule="evenodd" />
-    </mask>
-    <filter x="725px" y="943px" width="139px" height="142px" filterUnits="userSpaceOnUse" id="filter198">
-      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
-      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.349019607843137 0  " in="shadowComposite" />
-    </filter>
-    <g id="widget199">
-      <path d="M 0 128  L 0 4  C 0 1.75999999999999  1.75999999999999 0  4 0  L 125 0  C 127.24 0  129 1.75999999999999  129 4  L 129 128  C 129 130.24  127.24 132  125 132  L 4 132  C 1.75999999999999 132  0 130.24  0 128  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" transform="matrix(1 0 0 1 730 948 )" />
-      <path d="M 0 128  L 0 4  C 0 1.75999999999999  1.75999999999999 0  4 0  L 125 0  C 127.24 0  129 1.75999999999999  129 4  L 129 128  C 129 130.24  127.24 132  125 132  L 4 132  C 1.75999999999999 132  0 130.24  0 128  Z " stroke-width="2" stroke="#d7d7d7" fill="none" transform="matrix(1 0 0 1 730 948 )" mask="url(#clip197)" />
-    </g>
-  </defs>
-  <g transform="matrix(1 0 0 1 -725 -943 )">
-    <use xlink:href="#widget199" filter="url(#filter198)" />
-    <use xlink:href="#widget199" />
-  </g>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="742 1020  12 12" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 742.5 1020.5  L 753.5 1020.5  L 753.5 1031.5  L 742.5 1031.5  L 742.5 1020.5  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+  <path d="M 742.5 1020.5  L 753.5 1020.5  L 753.5 1031.5  L 742.5 1031.5  L 742.5 1020.5  Z " stroke-width="1" stroke="#555555" fill="none" />
 </svg>
