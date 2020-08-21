@@ -1,5 +1,22 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="1015 4021  12 12" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 1021 4021  C 1024.36 4021  1027 4023.64  1027 4027  C 1027 4030.36  1024.36 4033  1021 4033  C 1017.64 4033  1015 4030.36  1015 4027  C 1015 4023.64  1017.64 4021  1021 4021  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-  <path d="M 1021 4021.5  C 1024.08 4021.5  1026.5 4023.92  1026.5 4027  C 1026.5 4030.08  1024.08 4032.5  1021 4032.5  C 1017.92 4032.5  1015.5 4030.08  1015.5 4027  C 1015.5 4023.92  1017.92 4021.5  1021 4021.5  Z " stroke-width="1" stroke="#02a7f0" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="247px" height="121px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip200">
+      <path d="M 0 98  L 0 4  C 0 1.75999999999999  1.76000000000022 0  4 0  L 233 0  C 235.24 0  237 1.75999999999999  237 4  L 237 98  C 237 100.24  235.24 102  233 102  L 208.391812865497 102  L 199 110.029239766082  L 190.263157894737 102  L 4 102  C 1.76000000000022 102  0 100.24  0 98  Z " fill-rule="evenodd" />
+    </mask>
+    <filter x="1016px" y="4150px" width="247px" height="121px" filterUnits="userSpaceOnUse" id="filter201">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.349019607843137 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget202">
+      <path d="M 0 98  L 0 4  C 0 1.75999999999999  1.76000000000022 0  4 0  L 233 0  C 235.24 0  237 1.75999999999999  237 4  L 237 98  C 237 100.24  235.24 102  233 102  L 208.391812865497 102  L 199 110.029239766082  L 190.263157894737 102  L 4 102  C 1.76000000000022 102  0 100.24  0 98  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" transform="matrix(1 0 0 1 1021 4155 )" />
+      <path d="M 0 98  L 0 4  C 0 1.75999999999999  1.76000000000022 0  4 0  L 233 0  C 235.24 0  237 1.75999999999999  237 4  L 237 98  C 237 100.24  235.24 102  233 102  L 208.391812865497 102  L 199 110.029239766082  L 190.263157894737 102  L 4 102  C 1.76000000000022 102  0 100.24  0 98  Z " stroke-width="2" stroke="#d7d7d7" fill="none" transform="matrix(1 0 0 1 1021 4155 )" mask="url(#clip200)" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1016 -4150 )">
+    <use xlink:href="#widget202" filter="url(#filter201)" />
+    <use xlink:href="#widget202" />
+  </g>
 </svg>
