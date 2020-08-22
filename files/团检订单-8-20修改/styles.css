@@ -156,7 +156,7 @@
   left:8px;
   top:187px;
   width:1350px;
-  height:312px;
+  height:328px;
 }
 #u3469_state0 {
   border-width:0px;
@@ -164,7 +164,7 @@
   left:0px;
   top:0px;
   width:1350px;
-  height:312px;
+  height:328px;
   overflow:auto;
   -webkit-overflow-scrolling:touch;
   background-image:none;
@@ -7507,7 +7507,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:1350px;
+  width:1366px;
   height:28px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
@@ -7521,9 +7521,9 @@
   border-radius:0px;
   border-bottom-right-radius:0px;
   border-bottom-left-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  -moz-box-shadow:0px 1px 0px rgba(255, 255, 255, 1);
+  -webkit-box-shadow:0px 1px 0px rgba(255, 255, 255, 1);
+  box-shadow:0px 1px 0px rgba(255, 255, 255, 1);
   font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC', sans-serif;
   font-weight:650;
   font-style:normal;
@@ -7533,9 +7533,9 @@
 #u3687 {
   border-width:0px;
   position:absolute;
-  left:8px;
+  left:0px;
   top:120px;
-  width:1350px;
+  width:1366px;
   height:28px;
   display:flex;
   font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC', sans-serif;
@@ -7547,7 +7547,7 @@
 #u3687 .text {
   position:absolute;
   align-self:center;
-  padding:2px 2px 2px 0px;
+  padding:2px 2px 2px 8px;
   box-sizing:border-box;
   width:100%;
 }
@@ -23307,7 +23307,7 @@
   width:1350px;
   height:24px;
   background:inherit;
-  background-color:rgba(242, 242, 242, 1);
+  background-color:rgba(246, 246, 246, 1);
   box-sizing:border-box;
   border-width:1px;
   border-style:solid;
