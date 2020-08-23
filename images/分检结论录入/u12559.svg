@@ -1,5 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="12px" viewBox="153 677  12 12" xmlns="http://www.w3.org/2000/svg">
-  <path d="M 159 677  C 162.36 677  165 679.64  165 683  C 165 686.36  162.36 689  159 689  C 155.64 689  153 686.36  153 683  C 153 679.64  155.64 677  159 677  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-  <path d="M 159 677.5  C 162.08 677.5  164.5 679.92  164.5 683  C 164.5 686.08  162.08 688.5  159 688.5  C 155.92 688.5  153.5 686.08  153.5 683  C 153.5 679.92  155.92 677.5  159 677.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="232px" height="48px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter x="247px" y="206px" width="232px" height="48px" filterUnits="userSpaceOnUse" id="filter114">
+      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
+      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.349019607843137 0  " in="shadowComposite" />
+    </filter>
+    <g id="widget115">
+      <path d="M 252 237.562091503268  C 252 237.562091503268  252 213  252 213  C 252 211.895430500338  252.895430500338 211  254 211  C 254 211  472 211  472 211  C 473.104569499662 211  474 211.895430500338  474 213  C 474 213  474 237.562091503268  474 237.562091503268  C 474 238.66666100293  473.104569499662 239.562091503268  472 239.562091503268  C 472 239.562091503268  279.760008369368 239.562091503268  279.760008369368 239.562091503268  C 279.760008369368 239.562091503268  270.273089995567 247.759809314265  270.273089995567 247.759809314265  C 270.273089995567 247.759809314265  260.760008369368 239.562091503268  260.760008369368 239.562091503268  C 260.760008369368 239.562091503268  254 239.562091503268  254 239.562091503268  C 252.895430500338 239.562091503268  252 238.66666100293  252 237.562091503268  Z " fill-rule="nonzero" fill="#000000" stroke="none" fill-opacity="0.498039215686275" />
+    </g>
+  </defs>
+  <g transform="matrix(1 0 0 1 -247 -206 )">
+    <use xlink:href="#widget115" filter="url(#filter114)" />
+    <use xlink:href="#widget115" />
+  </g>
 </svg>
