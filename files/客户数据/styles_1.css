@@ -1,4 +1,23 @@
 ﻿
+#u13653 {
+  border-width:0px;
+  position:absolute;
+  left:634px;
+  top:35px;
+  width:122px;
+  height:35px;
+  display:flex;
+  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial', sans-serif;
+  font-weight:700;
+  font-style:normal;
+}
+#u13653 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
 #u13653_text {
   border-width:0px;
   word-wrap:break-word;
@@ -2010,7 +2029,7 @@
 #u13713 {
   border-width:0px;
   position:absolute;
-  left:372px;
+  left:364px;
   top:4675px;
   width:84px;
   height:24px;
@@ -2127,7 +2146,7 @@
 #u13714 {
   border-width:0px;
   position:absolute;
-  left:272px;
+  left:256px;
   top:4675px;
   width:84px;
   height:24px;
@@ -2401,7 +2420,7 @@
 #u13716 {
   border-width:0px;
   position:absolute;
-  left:140px;
+  left:132px;
   top:4675px;
   width:116px;
   height:24px;
